@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: John Li
+# FILENAME: naive_bayes.py
+# SPECIFICATION: Using Naive Bayes to predict whether to play tennis or not based on weather conditions
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
